@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#sobuz{
+    color: rgb(255, 179, 1);
+}
+section{
+    display: flex;
+}
+.half-width{
+    padding-left: 5%;
+    width: 50%;
+}
+.half-width img{
+    width: 85%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 400;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+}
